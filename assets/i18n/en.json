@@ -1,0 +1,60 @@
+{
+  "home": "Home",
+  "swap": "Swap",
+  "trade": "Trade",
+  "docs": "Docs",
+  "api": "API",
+  "stats": "Stats",
+  "about": "About",
+  "staking": "Staking",
+  "help": "Support",
+  "connect_wallet": "Connect Wallet",
+  "header": {
+    "connect_wallet": "Connect Wallet",
+    "order_id": "Order ID:",
+    "creation_time": "Creation Time:",
+    "cex": "CEX:",
+    "order_type": "Order type:",
+    "fixed": "FIXED",
+    "floating": "FLOATING",
+    "time_remaining": "Time remaining"
+  },
+  "exchange_card": {
+    "you_send": "You send",
+    "to_the_address": "to the address:",
+    "you_receive": "You receive",
+    "receive_address": "Receive address:"
+  },
+  "transaction_info": {
+    "transaction_info": "Transaction info",
+    "txid": "TxID",
+    "view_blockchain": "View on the blockchain",
+    "received_time": "Received time",
+    "confirmations": "Confirmations",
+    "rate": "Rate",
+    "fee": "Fee",
+    "amount": "Amount"
+  },
+  "status": {
+    "awaiting_deposit": "Awaiting deposit",
+    "processing": "Processing",
+    "perform_exchange": "Perform exchange",
+    "completed": "Completed"
+  },
+  "success_banner": {
+    "transaction_sent": "Your transaction was sent",
+    "thank_you_message": "Thank you for choosing ZKDEX! We appreciate your trust and look forward to serving you again soon."
+  },
+  "tabs": {
+    "accepted_transaction_info": "Accepted transaction info",
+    "sent_transaction_info": "Sent transaction info"
+  },
+  "misc": {
+    "loading": "Loading...",
+    "nothing_to_show": "Nothing to show"
+  },
+  "coming_soon": {
+    "comingsoon": "Coming Soon",
+    "text": "Stay tuned for updates on our social media"
+  }
+}

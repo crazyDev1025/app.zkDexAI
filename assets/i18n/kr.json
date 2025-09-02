@@ -1,0 +1,52 @@
+{
+    "connect_wallet": "지갑 연결",
+    "header": {
+      "connect_wallet": "지갑 연결",
+      "order_id": "주문 ID:",
+      "creation_time": "생성 시간:",
+      "cex": "CEX:",
+      "order_type": "주문 유형:",
+      "fixed": "고정",
+      "floating": "변동",
+      "time_remaining": "남은 시간"
+    },
+    "exchange_card": {
+      "you_send": "보내는 금액",
+      "to_the_address": "주소로:",
+      "you_receive": "받는 금액",
+      "receive_address": "받는 주소:"
+    },
+    "transaction_info": {
+      "transaction_info": "거래 정보",
+      "txid": "TxID",
+      "view_blockchain": "블록체인에서 보기",
+      "received_time": "수신 시간",
+      "confirmations": "확인 횟수",
+      "rate": "환율",
+      "fee": "수수료",
+      "amount": "금액"
+    },
+    "status": {
+      "awaiting_deposit": "입금 대기 중",
+      "processing": "처리 중",
+      "perform_exchange": "교환 수행",
+      "completed": "완료됨"
+    },
+    "success_banner": {
+      "transaction_sent": "거래가 전송되었습니다",
+      "thank_you_message": "ZKDEX를 선택해 주셔서 감사합니다! 신뢰에 감사드리며 곧 다시 만나 뵙기를 기대합니다."
+    },
+    "tabs": {
+      "accepted_transaction_info": "승인된 거래 정보",
+      "sent_transaction_info": "보낸 거래 정보"
+    },
+    "misc": {
+      "loading": "로딩 중...",
+      "nothing_to_show": "표시할 내용이 없습니다"
+    },
+    "coming_soon": {
+      "comingsoon": "곧 출시 예정",
+      "text": "소셜 미디어에서 업데이트를 확인하세요"
+    }
+  }
+  

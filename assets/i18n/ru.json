@@ -1,0 +1,52 @@
+{
+    "connect_wallet": "Подключить кошелек",
+    "header": {
+      "connect_wallet": "Подключить кошелек",
+      "order_id": "ID заказа:",
+      "creation_time": "Время создания:",
+      "cex": "CEX:",
+      "order_type": "Тип заказа:",
+      "fixed": "ФИКСИРОВАННЫЙ",
+      "floating": "ПЛАВАЮЩИЙ",
+      "time_remaining": "Оставшееся время"
+    },
+    "exchange_card": {
+      "you_send": "Вы отправляете",
+      "to_the_address": "на адрес:",
+      "you_receive": "Вы получаете",
+      "receive_address": "Адрес для получения:"
+    },
+    "transaction_info": {
+      "transaction_info": "Информация о транзакции",
+      "txid": "TxID",
+      "view_blockchain": "Просмотреть в блокчейне",
+      "received_time": "Время получения",
+      "confirmations": "Подтверждения",
+      "rate": "Курс",
+      "fee": "Комиссия",
+      "amount": "Сумма"
+    },
+    "status": {
+      "awaiting_deposit": "Ожидание депозита",
+      "processing": "Обработка",
+      "perform_exchange": "Выполнение обмена",
+      "completed": "Завершено"
+    },
+    "success_banner": {
+      "transaction_sent": "Ваша транзакция отправлена",
+      "thank_you_message": "Спасибо, что выбрали ZKDEX! Мы ценим ваше доверие и надеемся снова увидеть вас в ближайшем будущем."
+    },
+    "tabs": {
+      "accepted_transaction_info": "Информация о принятой транзакции",
+      "sent_transaction_info": "Информация о отправленной транзакции"
+    },
+    "misc": {
+      "loading": "Загрузка...",
+      "nothing_to_show": "Нечего показать"
+    },
+    "coming_soon": {
+      "comingsoon": "Скоро",
+      "text": "Следите за обновлениями в наших социальных сетях"
+    }
+  }
+  

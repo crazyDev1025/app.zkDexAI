@@ -1,0 +1,52 @@
+{
+    "connect_wallet": "连接钱包",
+    "header": {
+      "connect_wallet": "连接钱包",
+      "order_id": "订单编号：",
+      "creation_time": "创建时间：",
+      "cex": "中心化交易所 (CEX)：",
+      "order_type": "订单类型：",
+      "fixed": "固定",
+      "floating": "浮动",
+      "time_remaining": "剩余时间"
+    },
+    "exchange_card": {
+      "you_send": "你发送",
+      "to_the_address": "到地址：",
+      "you_receive": "你接收",
+      "receive_address": "接收地址："
+    },
+    "transaction_info": {
+      "transaction_info": "交易信息",
+      "txid": "交易编号 (TxID)",
+      "view_blockchain": "在区块链上查看",
+      "received_time": "接收时间",
+      "confirmations": "确认次数",
+      "rate": "汇率",
+      "fee": "费用",
+      "amount": "金额"
+    },
+    "status": {
+      "awaiting_deposit": "等待存款",
+      "processing": "处理中",
+      "perform_exchange": "进行兑换",
+      "completed": "已完成"
+    },
+    "success_banner": {
+      "transaction_sent": "你的交易已发送",
+      "thank_you_message": "感谢您选择 ZKDEX！我们感谢您的信任，并期待很快再次为您服务。"
+    },
+    "tabs": {
+      "accepted_transaction_info": "接受的交易信息",
+      "sent_transaction_info": "已发送的交易信息"
+    },
+    "misc": {
+      "loading": "加载中...",
+      "nothing_to_show": "没有内容显示"
+    },
+    "coming_soon": {
+      "comingsoon": "即将推出",
+      "text": "请关注我们的社交媒体获取更新"
+    }
+  }
+  

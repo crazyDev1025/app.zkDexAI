@@ -1,0 +1,52 @@
+{
+    "connect_wallet": "Cüzdanı Bağla",
+    "header": {
+      "connect_wallet": "Cüzdanı Bağla",
+      "order_id": "Sipariş ID:",
+      "creation_time": "Oluşturulma Zamanı:",
+      "cex": "CEX:",
+      "order_type": "Sipariş Türü:",
+      "fixed": "SABİT",
+      "floating": "DEĞİŞKEN",
+      "time_remaining": "Kalan Süre"
+    },
+    "exchange_card": {
+      "you_send": "Gönderdiğiniz",
+      "to_the_address": "adrese:",
+      "you_receive": "Aldığınız",
+      "receive_address": "Alıcı Adresi:"
+    },
+    "transaction_info": {
+      "transaction_info": "İşlem Bilgisi",
+      "txid": "TxID",
+      "view_blockchain": "Blockchain'de Görüntüle",
+      "received_time": "Alınma Zamanı",
+      "confirmations": "Onaylar",
+      "rate": "Oran",
+      "fee": "Ücret",
+      "amount": "Miktar"
+    },
+    "status": {
+      "awaiting_deposit": "Depozito Bekleniyor",
+      "processing": "İşleniyor",
+      "perform_exchange": "Takas Gerçekleştiriliyor",
+      "completed": "Tamamlandı"
+    },
+    "success_banner": {
+      "transaction_sent": "İşleminiz gönderildi",
+      "thank_you_message": "ZKDEX'i tercih ettiğiniz için teşekkür ederiz! Güveninize değer veriyoruz ve sizi yakında tekrar görmek için sabırsızlanıyoruz."
+    },
+    "tabs": {
+      "accepted_transaction_info": "Kabul Edilen İşlem Bilgisi",
+      "sent_transaction_info": "Gönderilen İşlem Bilgisi"
+    },
+    "misc": {
+      "loading": "Yükleniyor...",
+      "nothing_to_show": "Gösterilecek bir şey yok"
+    },
+    "coming_soon": {
+      "comingsoon": "Yakında",
+      "text": "Sosyal medyamızdan güncellemeleri takip edin"
+    }
+  }
+  

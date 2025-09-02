@@ -1,0 +1,51 @@
+{
+  "connect_wallet": "Conectar billetera",
+  "header": {
+    "connect_wallet": "Conectar billetera",
+    "order_id": "ID de pedido:",
+    "creation_time": "Hora de creación:",
+    "cex": "CEX:",
+    "order_type": "Tipo de pedido:",
+    "fixed": "FIJO",
+    "floating": "VARIABLE",
+    "time_remaining": "Tiempo restante"
+  },
+  "exchange_card": {
+    "you_send": "Tú envías",
+    "to_the_address": "a la dirección:",
+    "you_receive": "Tú recibes",
+    "receive_address": "Dirección de recepción:"
+  },
+  "transaction_info": {
+    "transaction_info": "Información de la transacción",
+    "txid": "TxID",
+    "view_blockchain": "Ver en la blockchain",
+    "received_time": "Hora de recepción",
+    "confirmations": "Confirmaciones",
+    "rate": "Tasa",
+    "fee": "Comisión",
+    "amount": "Cantidad"
+  },
+  "status": {
+    "awaiting_deposit": "Esperando depósito",
+    "processing": "Procesando",
+    "perform_exchange": "Realizar intercambio",
+    "completed": "Completado"
+  },
+  "success_banner": {
+    "transaction_sent": "Tu transacción fue enviada",
+    "thank_you_message": "Gracias por elegir ZKDEX. Agradecemos tu confianza y esperamos servirte nuevamente pronto."
+  },
+  "tabs": {
+    "accepted_transaction_info": "Información de transacción aceptada",
+    "sent_transaction_info": "Información de transacción enviada"
+  },
+  "misc": {
+    "loading": "Cargando...",
+    "nothing_to_show": "Nada que mostrar"
+  },
+  "coming_soon": {
+    "comingsoon": "Próximamente",
+    "text": "Mantente atento a nuestras redes sociales para actualizaciones"
+  }
+}
