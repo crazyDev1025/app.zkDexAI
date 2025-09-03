@@ -29514,7 +29514,7 @@
                 [1, "nav-links"],
                 ["navLinks", ""],
                 ["routerLink", "/"],
-                ["href", "https://docs.zkDex.org", "target", "_blank"],
+                ["href", "https://docs.zkdex.tech", "target", "_blank"],
                 ["routerLink", "/api"],
                 ["routerLink", "/stats"],
                 ["routerLink", "/stake"],
@@ -29608,7 +29608,7 @@
                 ["routerLink", "/", 3, "click"],
                 [
                   "href",
-                  "https://docs.zkDex.org",
+                  "https://docs.zkdex.tech",
                   "target",
                   "_blank",
                   "rel",
@@ -50906,7 +50906,7 @@
                       ["routerLink", "/", 1, "dif-button"],
                       [
                         "href",
-                        "https://x.com/zkDexapp",
+                        "https://x.com/zkDex_defi",
                         "target",
                         "_blank",
                       ],
@@ -50978,7 +50978,7 @@
                       ["routerLink", "/", 1, "dif-button"],
                       [
                         "href",
-                        "https://x.com/zkDexapp",
+                        "https://x.com/zkDex_defi",
                         "target",
                         "_blank",
                       ],
@@ -51050,7 +51050,7 @@
                       ["routerLink", "/", 1, "dif-button"],
                       [
                         "href",
-                        "https://x.com/zkDexapp",
+                        "https://x.com/zkDex_defi",
                         "target",
                         "_blank",
                       ],
